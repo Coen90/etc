@@ -34,5 +34,5 @@
 - [Kubernetes와 Docker 비교] Link: [Kubernetes와 Docker 비교](https://www.atlassian.com/ko/microservices/microservices-architecture/kubernetes-vs-docker)
 
 
-### 
+### Others
 - [IT기업이 원하는 백엔드개발자] Link: [IT기업이 원하는 백엔드개발자](https://velog.io/@ngngs/IT기업이-원하는-백엔드개발자)
