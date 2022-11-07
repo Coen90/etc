@@ -1,5 +1,7 @@
 # 보고싶은(따라해보고싶은) 블로그, 깃허브 저장소들 모음
 
+### ERD Tool
+- 2022년 Top 8 무료 ERD 다이어그램 툴 리뷰 Link : [2022년 Top 8 무료 ERD 다이어그램 툴 리뷰](https://gitmind.com/kr/er-diagram-tool.html)
 
 ### Golang
 - 예제로 배우는 Go 프로그래밍 Link : [예제로 배우는 Go 프로그래밍](http://golang.site/)
