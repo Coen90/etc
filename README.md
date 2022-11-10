@@ -6,7 +6,7 @@
 ### Golang
 - 예제로 배우는 Go 프로그래밍 Link : [예제로 배우는 Go 프로그래밍](http://golang.site/)
 - Golang Web Framework GIN Link : [Golang Web Framework GIN](https://gin-gonic.com/)
-- blockchain-tutorial Github Link : [blockchain-tutorial](https://github.com/mingrammer/blockchain-tutorial/tree/master/basic-prototype)
+- blockchain-tutorial Github Link : [blockchain-tutorial](https://github.com/mingrammer/blockchain-tutorial)
 
 
 
