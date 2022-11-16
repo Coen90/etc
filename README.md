@@ -12,6 +12,7 @@
 
 ### JAVA
 - JAVA [자바] - 입력 뜯어보기 [Scanner, InputStream, BufferedReader] Link : [JAVA [자바] - 입력 뜯어보기 [Scanner, InputStream, BufferedReader]](https://st-lab.tistory.com/41)
+- [Lombok] 자주 사용되는 Lombok Annotation 기능정리 Link : [[Lombok] 자주 사용되는 Lombok Annotation 기능정리](https://haenny.tistory.com/387)
 
 
 ### Javascript
