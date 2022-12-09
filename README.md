@@ -1,5 +1,9 @@
 # 보고싶은(따라해보고싶은) 블로그, 깃허브 저장소들 모음
 
+### Cloud
+- 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드 Link : [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
+
+
 ### ERD Tool
 - 2022년 Top 8 무료 ERD 다이어그램 툴 리뷰 Link : [2022년 Top 8 무료 ERD 다이어그램 툴 리뷰](https://gitmind.com/kr/er-diagram-tool.html)
 
