@@ -42,6 +42,7 @@
 
 ### Network
 - [개정판] 어떻게 네트워크를 공부할 것인가?(네트워크 공부 방법에 대하여) Link : [[개정판] 어떻게 네트워크를 공부할 것인가?(네트워크 공부 방법에 대하여)](https://covenant.tistory.com/222)
+- API란? - SOAP, REST, GraphQL, gRPC 비교 - 총정리 Link : [API란? - SOAP, REST, GraphQL, gRPC 비교 - 총정리](https://bangu4.tistory.com/167)
 
 
 ### docker
