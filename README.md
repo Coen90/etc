@@ -45,6 +45,9 @@
 - API란? - SOAP, REST, GraphQL, gRPC 비교 - 총정리 Link : [API란? - SOAP, REST, GraphQL, gRPC 비교 - 총정리](https://bangu4.tistory.com/167)
 
 
+### Coding Test
+- 알고리즘 공부를 어떻게 시작해야할까? (Feat. 백준 500문제 푼 기념으로 적는 PS 회고록) Link : [알고리즘 공부를 어떻게 시작해야할까? (Feat. 백준 500문제 푼 기념으로 적는 PS 회고록)](https://steady-coding.tistory.com/260)
+
 ### docker
 - [Kubernetes와 Docker 비교] Link : [Kubernetes와 Docker 비교](https://www.atlassian.com/ko/microservices/microservices-architecture/kubernetes-vs-docker)
 - 초보를 위한 도커 안내서 - 도커란 무엇인가?  Link : [초보를 위한 도커 안내서 - 도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
