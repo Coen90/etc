@@ -9,6 +9,7 @@
 - [https://refactoring.guru/ko/design-patterns/catalog](https://refactoring.guru/ko/design-patterns/catalog)
 
 ### Golang
+- Go언어 입문자들을 위한 자료 Link : [Go언어 입문자들을 위한 자료](https://hyunsang.dev/golang-beginner/)
 - 예제로 배우는 Go 프로그래밍 Link : [예제로 배우는 Go 프로그래밍](http://golang.site/)
 - Golang Web Framework GIN Link : [Golang Web Framework GIN](https://gin-gonic.com/)
 - blockchain-tutorial Github Link : [blockchain-tutorial](https://github.com/mingrammer/blockchain-tutorial)
