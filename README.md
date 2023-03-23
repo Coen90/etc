@@ -53,6 +53,7 @@
 ### Others
 - [IT기업이 원하는 백엔드개발자] Link : [IT기업이 원하는 백엔드개발자](https://velog.io/@ngngs/IT기업이-원하는-백엔드개발자)
 - [IT 기술] 오픈소스 분석 방법과 개발자 공부 방법 Link : [[IT 기술] 오픈소스 분석 방법과 개발자 공부 방법](https://development-crow.tistory.com/21)
+- [병렬 동시성] Link : [https://fastapi.tiangolo.com/ko/async/](https://fastapi.tiangolo.com/ko/async/)
 
 
 ### Algorithm
