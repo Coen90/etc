@@ -3,6 +3,9 @@
 ### Cloud
 - 비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드 Link : [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 (2020년 3월 출시) 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 
+### K8S
+- [CKA 취득 후기 및 팁 (참고, 인용: seongjin)](https://gist.github.com/ShinGyeongseon367/ee7815700f2e6432b7641c08fe5b776c)
+
 
 ### Design Pattern
 - [https://sourcemaking.com/](https://sourcemaking.com/)
