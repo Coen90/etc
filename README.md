@@ -7,6 +7,10 @@
 - [CKA 취득 후기 및 팁 (참고, 인용: seongjin)](https://gist.github.com/ShinGyeongseon367/ee7815700f2e6432b7641c08fe5b776c)
 
 
+### System Design
+- [https://systemdesignfightclub.com/](https://systemdesignfightclub.com/)
+
+
 ### Design Pattern
 - [https://sourcemaking.com/](https://sourcemaking.com/)
 - [https://refactoring.guru/ko/design-patterns/catalog](https://refactoring.guru/ko/design-patterns/catalog)
@@ -61,7 +65,6 @@
 
 ### Algorithm
 - 📚한 장으로 보는 알고리즘 공부 순서📚 Link: [📚한 장으로 보는 알고리즘 공부 순서📚](https://velog.io/@ngngs/%ED%95%9C-%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-
 
 
 ### ERD Tool
